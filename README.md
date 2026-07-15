@@ -1,5 +1,4 @@
 # Electronic-Thermometer
-# Electronic Thermometer (Arduino)
 
 An analog electronic thermometer that measures temperature using the
 temperature-dependent Base-Emitter voltage (VBE) of NPN transistors,
