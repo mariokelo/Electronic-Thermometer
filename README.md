@@ -26,7 +26,7 @@ graph for better visualisation of how the temperature has changed over time.
 ## Hardware
 
 - Arduino (Uno or compatible)
-- 1× NPN transistors (same type)
+- 1× NPN transistors (2N3904)
 - Adafruit SSD1306 128×32 OLED display (I2C)
 - 10kOhm Resistor
 - Connecting wires / breadboard
@@ -46,5 +46,5 @@ The calibration of the transistor has been made by measuring ΔVBE at
 a known temperature (ice water at 0°C)
 
 ```
-VBE low: 0.0.6471 V  |   Temp: ~0 C
+VBE low: 0.6471 V  |   Temp: ~0 C
 ```
